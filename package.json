@@ -1,0 +1,61 @@
+{
+  "name": "grunt-createunit",
+  "description": "Create nodeunit and qunit files.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fabian-schmid/grunt-createunit",
+  "author": {
+    "name": "Fabian schmid",
+    "url": "http://fabian.wca.at/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fabian-schmid/grunt-createunit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fabian-schmid/grunt-createunit/issues"
+  },
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/fabian-schmid/grunt-createunit/blob/master/LICENSE"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "rimraf": "~2.2.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.2.0",
+    "grunt-contrib-qunit": "~0.5.2",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt": "~0.4.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "contributors": [
+    {
+      "name": "Fabian Schmid",
+      "url": "http://fabian.wca.at/"
+    }
+  ],
+  "_id": "grunt-createunit@0.0.1",
+  "_from": "grunt-createunit@>=0.0.1",
+  "_npmVersion": "1.3.2",
+  "_npmUser": {
+    "name": "fabian.schmid",
+    "email": "fabian.schmid@wca.at"
+  },
+  "directories": {}
+}
