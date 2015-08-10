@@ -1,4 +1,4 @@
-# grunt-createunit [![Build Status](https://travis-ci.org/fabian-schmid/grunt-createunit.png?branch=master)](https://travis-ci.org/fabian-schmid/grunt-createunit)
+# grunt-createunit
 
 [![Build Status](https://travis-ci.org/fabian-schmid/grunt-createunit.svg)](https://travis-ci.org/fabian-schmid/grunt-createunit)
 [![NPM Downloads](https://img.shields.io/npm/dm/grunt-createunit.svg)](https://www.npmjs.com/package/grunt-createunit)
