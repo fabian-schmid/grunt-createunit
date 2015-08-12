@@ -1,7 +1,7 @@
 {
   "name": "grunt-createunit",
   "description": "Create nodeunit and qunit files for QUnit and Nodeunit.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/fabian-schmid/grunt-createunit",
   "author": {
     "name": "Fabian schmid",
@@ -37,7 +37,7 @@
     "grunt-contrib-uglify": "~0.5.1",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-nodeunit": "~0.4.1",
-    "grunt-createunit": "~0.0.1",
+    "grunt-createunit": "~0.0.3",
     "grunt": "~0.4.5"
   },
   "peerDependencies": {
