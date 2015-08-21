@@ -1,4 +1,3 @@
-<%= grunt.banner %>
 "use strict;"
 
 require("../src/test");

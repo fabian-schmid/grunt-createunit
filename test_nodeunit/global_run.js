@@ -1,4 +1,4 @@
-/*! grunt-createunit - v0.0.3 - 2015-08-12
+/*! grunt-createunit - v0.1.0 - 2015-08-21
 * https://github.com/fabian-schmid/grunt-createunit
 * Copyright (c) 2015 Fabian schmid; Licensed MIT */
 

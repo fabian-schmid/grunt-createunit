@@ -1,6 +1,6 @@
 {
   "name": "grunt-createunit",
-  "description": "Create nodeunit and qunit files for QUnit and Nodeunit.",
+  "description": "Create unit testing files for QUnit and Nodeunit with one managed test.",
   "version": "0.1.0",
   "homepage": "https://github.com/fabian-schmid/grunt-createunit",
   "author": {
