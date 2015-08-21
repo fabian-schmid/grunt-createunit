@@ -77,10 +77,16 @@ createunit: {
 }
 ```
 
-## Release History
-
- * 2015-08-10   v0.0.1   create task grunt-createunit
----
+> Find more project examples:
+>  * [OpenCrisp BaseJS Gruntfile.js](https://github.com/OpenCrisp/Crisp.BaseJS/blob/master/Gruntfile.js)
+>  * [OpenCrisp CreateJS Gruntfile.js](https://github.com/OpenCrisp/Crisp.CreateJS/blob/master/Gruntfile.js)
+>  * [OpenCrisp EventJS Gruntfile.js](https://github.com/OpenCrisp/Crisp.EventJS/blob/master/Gruntfile.js)
+>  * [OpenCrisp PathJS Gruntfile.js](https://github.com/OpenCrisp/CrispPatheJS/blob/master/Gruntfile.js)
 
 Task submitted by [Fabian Schmid](http://fabian.wca.at/)
 
+## Links
+ * [Repository](https://github.com/fabian-schmid/grunt-createunit)
+ * [Node package manager](https://www.npmjs.com/package/grunt-createunit)
+ * [Version monitoring](https://www.versioneye.com/nodejs/grunt-createunit)
+ * [Build history](https://travis-ci.org/fabian-schmid/grunt-createunit)
