@@ -81,7 +81,7 @@ createunit: {
 >  * [OpenCrisp BaseJS Gruntfile.js](https://github.com/OpenCrisp/Crisp.BaseJS/blob/master/Gruntfile.js)
 >  * [OpenCrisp CreateJS Gruntfile.js](https://github.com/OpenCrisp/Crisp.CreateJS/blob/master/Gruntfile.js)
 >  * [OpenCrisp EventJS Gruntfile.js](https://github.com/OpenCrisp/Crisp.EventJS/blob/master/Gruntfile.js)
->  * [OpenCrisp PathJS Gruntfile.js](https://github.com/OpenCrisp/CrispPatheJS/blob/master/Gruntfile.js)
+>  * [OpenCrisp PathJS Gruntfile.js](https://github.com/OpenCrisp/Crisp.PathJS/blob/master/Gruntfile.js)
 
 Task submitted by [Fabian Schmid](http://fabian.wca.at/)
 
