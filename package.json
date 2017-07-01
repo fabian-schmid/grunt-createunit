@@ -1,7 +1,7 @@
 {
     "name": "grunt-createunit",
     "description": "Create unit testing files for QUnit and Nodeunit with one managed test.",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "homepage": "https://github.com/fabian-schmid/grunt-createunit",
     "author": {
         "name": "Fabian schmid",
@@ -27,15 +27,15 @@
         "test": "grunt test"
     },
     "dependencies": {
-        "rimraf": "^2.5.2"
+        "rimraf": "~2.6.1"
     },
     "devDependencies": {
         "grunt": "~1.0.1",
-        "grunt-contrib-clean": "~1.0.0",
-        "grunt-contrib-jshint": "~1.0.0",
+        "grunt-contrib-clean": "~1.1.0",
+        "grunt-contrib-jshint": "~1.1.0",
         "grunt-contrib-nodeunit": "~1.0.0",
-        "grunt-contrib-qunit": "~1.2.0",
-        "grunt-contrib-uglify": "~2.0.0",
+        "grunt-contrib-qunit": "~2.0.0",
+        "grunt-contrib-uglify": "~3.0.1",
         "grunt-createunit": "~1.0.4"
     },
     "peerDependencies": {
